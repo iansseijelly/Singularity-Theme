@@ -1,0 +1,21 @@
+{
+  "name": "singularity",
+  "displayName": "Singularity",
+  "description": "A color theme featuring the singularity valorant skin theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lux",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lux-color-theme.json"
+      }
+    ]
+  }
+}
